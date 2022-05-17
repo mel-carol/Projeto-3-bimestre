@@ -1,0 +1,42 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: #2f363e;
+  color: white;
+  position: absolute;
+  top: 0; bottom: 0;
+  left: 0; right: 0;
+  margin: auto;
+}
+.paragrafos {
+  background: #475a70;
+  width: 80%;
+  height: 70%;
+  position: relative;
+  box-shadow: 0 0 1.5em#2a6a87;
+  top: 10%;
+  margin-left: auto;
+  margin-right: auto; 
+}
+
+p {
+  text-align: justify;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1, h3 {
+  text-align: center;
+}
+
+input.btn {
+  background-color: #2a6a87;
+  color: white;
+  box-shadow: 0 0 1em #2aa;
+}
+form {
+  position: relative;
+  top: 5%;
+  left: 40%;
+}
